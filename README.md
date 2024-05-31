@@ -1,4 +1,4 @@
-About this project
+**About this project:-**
 Project Description: Street Fighter 6 Interactive Guide
 Overview: This project focuses on Street Fighter 6, a sequel in the legendary Street Fighter series that has captivated gamers since its inception in 1987. 
 The project aims to create an interactive guide for the game using Microsoft Excel, PowerPoint, and Power BI, showcasing all its characters, their unique fighting moves, and various outfits.
